@@ -1,6 +1,11 @@
-p{
-    text-align: center;
+body {
+    background: #cccccc
 }
 
-body{
-    ba
+h1 {
+style="text-align: center";
+}
+
+em strong {
+    color: #FF0000;
+}
